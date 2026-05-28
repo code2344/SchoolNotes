@@ -1,0 +1,1 @@
+An ion is an [[Atoms|atom]] with a different number of [[Proton|protons]] and [[Electron|electrons]]. 

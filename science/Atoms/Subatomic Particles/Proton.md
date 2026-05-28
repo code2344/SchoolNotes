@@ -1,0 +1,1 @@
+A proton is a subatomic particle with positive or +1 charge. It is part of the nucleus of an [[Atoms|atom]].
