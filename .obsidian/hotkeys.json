@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:Templates/Chemistry Equation.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:create-Templates/Header.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ]
+}
