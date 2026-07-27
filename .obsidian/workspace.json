@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science/Ions.md",
+                "file": "English/Film/Show, don't tell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ions"
+              "title": "Show, don't tell"
             }
           }
         ],
@@ -306,10 +306,10 @@
   },
   "active": "6da48517de8a1902",
   "lastOpenFiles": [
+    "science/Ions.md",
     "Photosynthesis.md",
     "science/Practice qs 27.may.md",
     "science/Law of conservation of mass and chemical equations.md",
-    "science/Ions.md",
     "science/Ionic Formula.md",
     "science/Chemical Elements/Chemical Elements.md",
     "science/Chemical Elements",
