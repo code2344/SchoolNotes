@@ -1,0 +1,2 @@
+What is perspective?
+a particular attitude or way of looking at something; a point of view. For exapnle, a sporting match may be viewed from the perspective of the: winner, loser, supporter, umpire, or child seeing it for the first time. If you were to tell the story of this match from the perspective of one of these groups, how would you tell it?
