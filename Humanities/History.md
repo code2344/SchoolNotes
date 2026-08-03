@@ -21,3 +21,6 @@ We should study history to:
 learn from our past mistakes, understand current events, build critical thinking, apperciate other cultures, gain life perspective
 
 history is the understanding of past events and how they impact the world
+
+
+

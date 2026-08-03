@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 june.md",
+                "file": "Humanities/History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 june"
+              "title": "History"
             }
           }
         ],
@@ -307,6 +307,7 @@
   },
   "active": "6da48517de8a1902",
   "lastOpenFiles": [
+    "10 june.md",
     "chem template test 2.md",
     "model paragraph.md",
     "Practice questions 4 june.md",
@@ -335,7 +336,6 @@
     "science/Chemical Elements",
     "science/Atoms/Subatomic Particles/Subatomic Particles.md",
     "science/Atoms/Subatomic Particles/Proton.md",
-    "science/Atoms/Subatomic Particles/Neutron.md",
     "science/Atoms/Subatomic Particles",
     "science/Atoms",
     "science",
