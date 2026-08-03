@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science/Practice Qs 3rd August.md",
+                "file": "science/Photosynthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Qs 3rd August"
+              "title": "Photosynthesis"
             }
           }
         ],
@@ -307,8 +307,8 @@
   },
   "active": "6da48517de8a1902",
   "lastOpenFiles": [
-    "science/Photosynthesis.md",
     "science/Practice Qs 3rd August.md",
+    "science/Photosynthesis.md",
     "science/Acids/Acid.md",
     "science/Ionic Formula.md",
     "science/oxidation reactions.md",
