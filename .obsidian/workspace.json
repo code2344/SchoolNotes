@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "d0bfe190f6e597de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is the endocrine system?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is the endocrine system?"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -360,17 +374,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b783809d657786b",
+  "active": "d0bfe190f6e597de",
   "lastOpenFiles": [
-    "science qs.md",
     "Untitled.md",
+    "What is the endocrine system?.md",
+    "chem template test 2.md",
+    "Templates/Untitled 2.md",
+    "science qs.md",
     "Maths/Probablilty/maths probability.md",
     "Maths/Probablilty/maths probability challenges.md",
     "README.md",
     "question.md",
-    "chem template test 2.md",
     "model paragraph.md",
-    "Templates/Untitled 2.md",
     "science/Photosynthesis.md",
     "science/Practice Qs 3rd August.md",
     "science/Acids/Acid.md",
@@ -381,7 +396,6 @@
     "Humanities/History.md",
     "10 june.md",
     "Practice questions 4 june.md",
-    "Untitled 1.md",
     "Maths/Volume and Area of a sphere.md",
     "Humanities/Civics and Citizenship/War Crimes and the International Criminal Court (ICC).md",
     "Meeting with amanda 21.5.md",
