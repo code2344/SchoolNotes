@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Total surface area of cone.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Total surface area of cone"
+              "title": "Untitled"
             }
           },
           {
@@ -175,8 +175,7 @@
               "title": "What is the endocrine system?"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -374,16 +373,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0bfe190f6e597de",
+  "active": "8c5fdde2499502e4",
   "lastOpenFiles": [
+    "science qs.md",
+    "README.md",
     "Untitled.md",
     "What is the endocrine system?.md",
     "chem template test 2.md",
     "Templates/Untitled 2.md",
-    "science qs.md",
     "Maths/Probablilty/maths probability.md",
     "Maths/Probablilty/maths probability challenges.md",
-    "README.md",
     "question.md",
     "model paragraph.md",
     "science/Photosynthesis.md",
