@@ -1,4 +1,4 @@
-feAll living organism need energy to grow, repair, move and reproduce
+All living organism need energy to grow, repair, move and reproduce
 The source of all energy in all ecosystems* is the sun.
 Plants, some algae and some bacteria can transform light into energy
 The equation for photosynthesis is:
