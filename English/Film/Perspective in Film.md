@@ -1,0 +1,7 @@
+# Perspective in Film
+
+Perspective is a particular attitude or way of looking at something: a point of view. For example, a sporting match may be viewed from the perspective of the winner, loser, supporter, umpire or a child seeing it for the first time. Each would tell the story differently.
+
+Every film reflects a particular perspective; there is no completely neutral story. The film industry has historically been dominated by Western, white, male voices, shaping which stories are told. Stories told from within a community are often more authentic and nuanced than stories told by outsiders. Limited representation can lead to stereotypes and one-dimensional portrayals. Representation matters because films influence how audiences understand people, cultures and communities.
+
+The techniques in [[Show, Don't Tell]] help reveal the perspective a film presents.

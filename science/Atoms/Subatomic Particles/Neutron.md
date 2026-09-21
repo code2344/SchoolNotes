@@ -1,1 +1,0 @@
-A neutron is a subatomic particle with neutral or no charge. It is part of the nucleus of an [[Atoms|atom]].
