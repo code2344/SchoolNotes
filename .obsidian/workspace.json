@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Physics/States of Matter and Heat.md",
+                "file": "Science/Carbon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "States of Matter and Heat"
+              "title": "Carbon"
             }
           },
           {
@@ -426,8 +426,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "046c271ae30656de",
+  "active": "3d9e67f35dce2c58",
   "lastOpenFiles": [
+    "Templates/Chemical Equation.md",
+    "Science/Carbon.md",
+    "Science/Science.md",
+    "Science/Earth's Systems/4 Spheres.md",
+    "Science/Earth's Systems",
+    "Science/Physics/States of Matter and Heat.md",
     "Humanities/History/Icon\r",
     "Humanities/Civics and Citizenship/Icon\r",
     "Science 9 sep.md",
@@ -451,18 +457,12 @@
     "science/Photosynthesis.md",
     "What is the endocrine system?.md",
     "science/Ions.md",
-    "science/Science 2 July 2026.md",
-    "science/Revision/Practice qs 27.may.md",
-    "science qs.md",
     "science/Revision",
-    "science/Law of conservation of mass and chemical equations.md",
     "Maths/Probablilty",
     "science/Acids",
     "science/Chemical Elements",
     "science/Atoms/Subatomic Particles",
     "science/Atoms",
-    "science",
-    "Maths/Linear",
-    "Maths"
+    "science"
   ]
 }
