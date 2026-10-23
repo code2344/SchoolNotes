@@ -1,4 +1,3 @@
-# Civics and Citizenship
 
 - **Organisation of society:** structures and patterns of social interaction, such as road rules
 - **Federal government:** the government of the Commonwealth of Australia

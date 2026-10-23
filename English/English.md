@@ -1,5 +1,3 @@
-# English
-
 ## Film
 
 - [[Show, Don't Tell]]

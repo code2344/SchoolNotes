@@ -1,5 +1,3 @@
-# Total Surface Area of a Cone
-
 The total surface area of a closed cone is:
 
 $$A=\pi r^2+\pi rs$$

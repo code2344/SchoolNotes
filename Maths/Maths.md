@@ -1,5 +1,3 @@
-# Maths
-
 ## Algebra
 
 - [[Radical Equation]]
@@ -12,3 +10,7 @@
 ## Probability
 
 - [[Painted Cube Probability Challenge]]
+
+## Practice
+
+- [[Lesson 18]] — quadratics: factorising, intercepts and turning-point form

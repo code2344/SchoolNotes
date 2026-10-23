@@ -1,5 +1,3 @@
-# Industrial Revolution Overview
-
 The transition from the ancient to the medieval period involved the decline of the Western Roman Empire, the development of empires in Asia, and the rise of feudalism and serfdom in parts of Europe.
 
 

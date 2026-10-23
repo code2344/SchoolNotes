@@ -1,5 +1,3 @@
-# Show, Don't Tell
-
 Films tell stories through visual and audio choices, not just dialogue. Every shot is carefully constructed; what appears on screen is deliberate.
 
 Camera work, lighting, editing, acting and sound shape how an audience thinks and feels. Strong analysis moves beyond *what happened* to explain *how it was created*. Use film metalanguage to describe the filmmaker's choices.
