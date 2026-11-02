@@ -14,3 +14,4 @@
 ## Practice
 
 - [[Lesson 18]] — quadratics: factorising, intercepts and turning-point form
+- [[Lesson 19]] — finding quadratic equations from roots, turning points and other points

@@ -18,6 +18,8 @@
 - [[States of Matter and Heat]]
 - [[Heat, Temperature and Sound]]
 - [[Reflection and Refraction]]
+- [[Energy transfers and transformations]]
+- [[Work]] — work, gravitational potential energy and kinetic energy practice
 
 ## Revision
 
