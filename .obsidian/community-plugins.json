@@ -3,5 +3,6 @@
   "github-sync",
   "extended-markdown-syntax",
   "templater-obsidian",
-  "mermaid-flow"
+  "mermaid-flow",
+  "tikzjax-next"
 ]
